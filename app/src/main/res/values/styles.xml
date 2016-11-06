@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -17,7 +17,6 @@
         <item name="tabSelectedTextColor">@color/white</item>
         <item name="tabGravity">fill</item>
         <item name="tabMode">fixed</item>
-
     </style>
 
     <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">

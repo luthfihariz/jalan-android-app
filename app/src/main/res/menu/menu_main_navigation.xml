@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_nearby"
+        android:icon="@drawable/ic_marker_24dp"
+        android:title="Nearby" />
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_explore_24dp"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="Favorite" />
+
+</menu>
